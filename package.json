@@ -1,6 +1,7 @@
 {
   "name": "react-app",
   "private": true,
+  "homepage": "https://cristian-ser.github.io/react_app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
